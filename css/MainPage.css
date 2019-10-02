@@ -1,0 +1,30 @@
+.TwinPanel {
+    display: flex;
+    width: 100%;
+    left: auto;
+    right: auto;
+}
+
+.webPanel {
+    width: 100%;
+    margin: 5px;
+}
+
+iframe {
+    width: 100%;
+    height: -webkit-fill-available;
+    resize: both;
+    border: none;
+}
+
+#MyPanel {
+    /*float:right;*/
+}
+
+#WaybackPanel {
+    float: left;
+}
+
+#PagesPanel{
+    overflow-y: scroll;
+}

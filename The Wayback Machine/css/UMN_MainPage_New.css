@@ -1,0 +1,87 @@
+#bodyDiv {
+    grid-template-areas: '. main main main main .' 'footer footer footer footer footer footer';
+    display: grid;
+}
+
+@media (min-width:1440px) {
+    .actualBody {
+        width: 1440px;
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width:1439px) {
+    .actualBody {
+        width: 100%;
+        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+#contentActual {
+    top: 54px;
+}
+
+#navActual {
+    width: inherit;
+    background-color: #ffd75f;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
+
+.NavText {
+    font-size: 14px;
+    font-family: Raleway, Helvetica, Helvetica Neue, Futura, Verdana, Geneva, sans-serif;
+    margin: 0px 15px;
+}
+
+#header {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+a:not(:visited) {
+    text-decoration: none
+}
+
+body {
+    margin: 0;
+}
+
+.navAddress:hover {
+    /*text-decoration: underline;
+    text-decoration-color: #404d5b;*/
+    border-bottom-color: rgba(52,73,94,.4);
+    border-bottom-width: 1px;
+}
+
+.navAddress {
+    color: #404d5b;
+    transition: background-color .3s, border-color .3s, color .3s;
+}
+
+#item {
+    /* align-self: flex-end; */
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+input[type=text] {
+    font-size: 14px;
+    font-family: Raleway, Helvetica, Helvetica Neue, Futura, Verdana, Geneva, sans-serif;
+    border: none;
+}
+
+button {
+    border: 0px;
+    margin: 0px;
+    background-color: maroon;
+    width: 1em;
+    height: 1.35em;
+}

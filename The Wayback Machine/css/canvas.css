@@ -1,0 +1,288 @@
+:root {
+    --header-width: 54px;
+    --header-hover-width: 84px;
+    --header-color: rgb(121, 0, 25);
+    --header-image: url("https://instructure-uploads.s3.amazonaws.com/account_43560000000000001/attachments/13918/UMN_block-M_margin_Msol116u.png?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&Expires=1913485079&Signature=AK2lHrOAXP7D11I4jSj38kNRJ3U%3D&response-cache-control=Cache-Control%3Amax-age%3D473364000%2C%20public&response-expires=473364000");
+    --account-image: url("https://canvas.umn.edu/images/messages/avatar-50.png");
+    --nav-size: 30px;
+    --nav-size-hover: 36px;
+    --font-global: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#headerAlignDivLogo {
+    height: 75px;
+    background-image: var(--header-image);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header {
+    position: fixed;
+    width: var(--header-width);
+    overflow-y: visible;
+    background-color: var(--header-color);
+    height: 100%;
+    z-index: 9999;
+}
+
+#classCardView {
+    display: grid;
+    grid-template-columns: 298px 298px 298px;
+}
+
+.classCard:hover .bottomClassCard {
+    box-shadow: 0px 1px 10px 0px grey;
+}
+
+.topClassCard {
+    height: 146px;
+    background-color: var(--background-color);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.bottomClassCard {
+    height: auto;
+    padding: 12px 18px 0px 18px;
+    box-shadow: 0px 1px 5px 0px grey;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.classCardTitleName {
+    color: var(--color);
+    text-decoration: underline;
+    font-family: var(--font-global);
+    font-size: 14px;
+    font-weight: 400;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: block;
+}
+
+.viewTypeItem:hover a {
+    text-decoration: none;
+    color: black;
+}
+
+.viewTypeItem:hover {
+    background-color: #394b58;
+}
+
+.classCardNumber {
+    margin-top: 8px;
+    font-family: var(--font-global);
+    font-size: 16px;
+}
+
+.quickActions {
+    align-content: center;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 40px;
+    padding-bottom: 12px;
+    margin-top: 9px;
+    text-align: center;
+}
+
+.classCardPeriod {
+    font-size: 12px;
+    color: rgb(127, 127, 127);
+}
+
+.bottomClassCard a {
+    text-decoration: none;
+}
+
+.bottomClassCard a:not(:visited) {
+    color: black;
+}
+
+#class1 {
+    --background-color: purple;
+    --color: purple;
+}
+
+#class2 {
+    --background-color: red;
+    --color: red;
+}
+
+#class3 {
+    --background-color: orange;
+    --color: orange;
+}
+
+header:hover {
+    width: var(--header-hover-width);
+}
+
+.navTargets {}
+
+.navTargets:hover {
+    height: 36px;
+}
+
+.navItem {
+    color: white;
+    padding: 5px 0px;
+}
+
+#viewTypeSeperator {
+    width: 80%;
+}
+
+#profile {
+    height: var(--nav-size);
+    width: var(--nav-size);
+    background-image: var(--account-image);
+    background-size: contain;
+    border: 2px solid;
+    border-radius: 100%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+header:hover #profile {
+    height: var(--nav-size-hover);
+    width: var(--nav-size-hover);
+}
+
+#dashboard {
+    height: var(--nav-size);
+    width: var(--nav-size);
+    /* background-image: var(--account-image);
+    background-size: contain; */
+    fill: white;
+    /* border-radius: 100%;
+    border: 2px solid; */
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.textUnderLine {
+    display: none;
+}
+
+header:hover .textUnderLine {
+    display: block;
+    color: white;
+    font-family: var(--font-global);
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#courses {}
+
+#groups {}
+
+#calendar {}
+
+#inbox {}
+
+#help {}
+
+main {
+    transform: translateX(54px);
+}
+
+#contentHeading {
+    font-family: var(--font-global);
+    font-size: 28.8px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgb(199, 205, 209);
+    display: flex;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#todoHeading {
+    font-family: var(--font-global);
+    margin-top: 15.8px;
+    font-size: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgb(199, 205, 209);
+    display: flex;
+}
+
+#dot1, #dot2, #dot3 {
+    font-size: 12px;
+    width: 5px;
+    height: 5px;
+    background-color: #333;
+    margin: 2px 0;
+    transition: 0.4s;
+}
+
+#menuKebab {
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+#menuKebab .tooltiptext {
+    visibility: hidden;
+    position: absolute;
+    width: 120px;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity .2s;
+    box-shadow: 1px 1px 1px 1px grey;
+    background-color: white;
+}
+
+#menuKebab:hover .tooltiptext {
+    transform: translate(-60px, 0px);
+    visibility: visible;
+    opacity: 1;
+    font-size: 16px;
+    text-align: left;
+    line-height: 35px;
+}
+
+#mainContentBlock {
+    padding: 24px;
+}
+
+#mainTodoBlock {
+    padding: 24px;
+}
+
+.viewTypeItem {
+    padding-left: 10px;
+}
+
+hr {}
+
+main {
+    width: 1078px;
+}
+
+.classCard {
+    border: 0px solid;
+    border-radius: 4px;
+    height: 265px;
+    width: 262px;
+    margin: 0px 36px 36px 0px;
+}
+
+#classCardView {
+    margin-top: 24px;
+}

@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+    Enter input amount
+    <input type="text" id="amount" value="0" onchange="calc()">
+    <input type="range" min="10" max="30" id="percentage" value="0" onmousemove="calc()">
+    <input type="range" min="1" max="6" id="personCount" value="1" onmousemove="calc()">
+    <input type="text" readonly id="output">
+    <script>
+        function calc() {
+            let amt = document.getElementById("amount").value;
+            let cnt = document.getElementById("personCount").value;
+            let perc = document.getElementById("percentage").value;
+
+            console.log(amt + ";" + cnt + ";" + perc);
+            document.getElementById("output").setAttribute("value", amt * (perc / 100) / cnt);
+        }
+    </script>
+</body>
+
+</html>
