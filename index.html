@@ -8,42 +8,53 @@
 </head>
 
 <body>
-    <div id="PagesPanel">
-        <ul>
-            <li>
-                <a href="./The Wayback Machine/UMN_MainPage.html">Assignment 0</a>. Go to
-                <a href="https://web.archive.org/web/19990220045153/http://www1.umn.edu/">
-                    wayback machine</a> to find the original page.
-                <button
-                    onclick="assignPages('./The Wayback Machine/UMN_MainPage.html','https://web.archive.org/web/19990220045153/http://www1.umn.edu/">
-                    CLICK ME FOR ASSIGNMENT 1 PAGE
+    <div id="PagesPanel" style="grid-template-columns:75% 25%; display: grid;">
+        <div>
+            <ul>
+                <li>
+                    <a href="./The Wayback Machine/UMN_MainPage.html">Assignment 0</a>. Go to
+                    <a href="https://web.archive.org/web/19990220045153/http://www1.umn.edu/">
+                        wayback machine</a> to find the original page.
+                    <button
+                        onclick="assignPages('./The Wayback Machine/UMN_MainPage.html','https\://web.archive.org/web/19990220045153/http://www1.umn.edu/')">
+                        CLICK ME FOR ASSIGNMENT 1 PAGE
+                    </button>
+                </li>
+                <li>
+                    <a href="./The Wayback Machine/TopGear_BBC.html">Assignment 0(Semi Complete)
+                    </a> Significantly more complex, uses multiple nested tables to handle alignment
+                    and transparent images with fixed width for alignment. Go to
+                    <a href="https://web.archive.org/web/20011214033430/http://www.bbc.co.uk/motoring/topgear/">
+                        wayback machine</a> to find the original page.
+                    <button
+                        onclick='assignPages(
+                            "./The Wayback Machine/TopGear_BBC.html",
+                            "https\://web.archive.org/web/20011214033430/http://www.bbc.co.uk/motoring/topgear/")'>
+                        CLICK ME FOR INCOMPLETE ASSIGNMENT 1 PAGE
+                    </button>
+                </li>
+                <li>
+                    <a href="./The Wayback Machine/canvas.html">Assignment 2
+                    </a> An implementation of the canvas webpage. Doesn't have
+                    significant amount of hover elements, so navbar has been
+                    modified to be hover. Kebab menu associated with Dashboard
+                    header has been changed to be a hoverable menu.
+                    The actual page should be visible at
+                    <a href="https://www.canvas.umn.edu">
+                        Canvas for UMN</a>.
+                    <button onclick="assignPages('./The Wayback Machine/canvas.html','canvas.umn.edu')">
+                        ASSIGNMENT 2 PAGE PREVIEW
+                    </button>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <a href="./The Wayback Machine/canvas.html" target="blank" style="color: white;">
+                <button style="background-color: black; color: white; width: 100%; height: 100%; cursor: pointer;">
+                    ASSIGNMENT 2 PAGE HERE
                 </button>
-            </li>
-            <li>
-                <a href="./The Wayback Machine/TopGear_BBC.html">Assignment 0(Semi Complete)
-                </a> Significantly more complex, uses multiple nested tables to handle alignment
-                and transparent images with fixed width for alignment. Go to
-                <a href="https://web.archive.org/web/20011214033430/http://www.bbc.co.uk/motoring/topgear/">
-                    wayback machine</a> to find the original page.
-                <button
-                    onclick="assignPages('./The Wayback Machine/TopGear_BBC.html','https://web.archive.org/web/20011214033430/http://www.bbc.co.uk/motoring/topgear/">
-                    CLICK ME FOR INCOMPLETE ASSIGNMENT 1 PAGE
-                </button>
-            </li>
-            <li>
-                <a href="./The Wayback Machine/canvas.html">Assignment 2
-                </a> An implementation of the canvas webpage. Doesn't have
-                significant amount of hover elements, so navbar has been
-                modified to be hover. Kebab menu associated with Dashboard
-                header has been changed to be a hoverable menu.
-                The actual page should be visible at
-                <a href="https://www.canvas.umn.edu">
-                    Canvas for UMN</a>.
-                <button onclick="assignPages('./The Wayback Machine/canvas.html','https://canvas.umn.edu')">
-                    CLICK ME FOR ASSIGNMENT 2 PAGE
-                </button>
-            </li>
-        </ul>
+            </a>
+        </div>
     </div>
     <div class="TwinPanel">
         <div id="myPanel" class="WebPanel">
