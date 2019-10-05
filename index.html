@@ -2,12 +2,14 @@
 
 <head>
     <link rel="stylesheet" href="./css/MainPage.css" type="text/css">
-    <script src=""></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+    <script src="js/index.js"></script>
     <title>CSCI 4131</title>
 </head>
 
 <body>
+    <div id="targetDiv"></div>
+    <!--
     <div id="PagesPanel" style="grid-template-columns:75% 25%; display: grid;">
         <div>
             <ul>
@@ -26,8 +28,7 @@
                     and transparent images with fixed width for alignment. Go to
                     <a href="https://web.archive.org/web/20011214033430/http://www.bbc.co.uk/motoring/topgear/">
                         wayback machine</a> to find the original page.
-                    <button
-                        onclick='assignPages(
+                    <button onclick='assignPages(
                             "./The Wayback Machine/TopGear_BBC.html",
                             "https\://web.archive.org/web/20011214033430/http://www.bbc.co.uk/motoring/topgear/")'>
                         CLICK ME FOR INCOMPLETE ASSIGNMENT 1 PAGE
@@ -55,11 +56,10 @@
                 </button>
             </a>
         </div>
-    </div>
-    <div class="TwinPanel">
+    </div>-->
+    <div id="TwinPanel">
         <div id="myPanel" class="WebPanel">
-            <iframe frameborder="0" id="MyPanelIFrame" src="./The Wayback Machine/canvas.html"></iframe>
-            <!-- style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;position:absolute;" height="150%" -->
+            <iframe frameborder="0" id="MyPanelIFrame" src="./The Wayback Machine/canvas.html"></iframe>-->
         </div>
         <div id="WaybackPanel" class="WebPanel">
             <iframe frameborder="0" id="WebPanelIFrame" src="https://canvas.umn.edu">
@@ -75,7 +75,26 @@
             document.getElementById("MyPanelIFrame").setAttribute('src', localPage);
             document.getElementById("WebPanelIFrame").setAttribute('src', webPage);
         }
+    </script>
+    <script>
+        run = function () {
+            if (window.File && window.FileReader && window.FileList && window.Blob) {
+                var File = new window.FileReader();
+                File.addEventListener("load", () => {
+                    var tempRes = File.result.replace("data:text/plain;base64,", "");
 
+                    var text = atob(tempRes),
+                        target = document.getElementById('targetDiv'),
+                        converter = new showdown.Converter(),
+                        html = converter.makeHtml(text);
+
+                    target.innerHTML = html;
+                })
+                var url = 'http://127.0.0.1:8000/Questions.md';//'https://raw.githubusercontent.com/AHarmlessPyro/CSCI-4131/ComparisonWindow/markdown/Questions.md';
+                fetch(url, { mode: 'cors' }).then(res => res.blob()).then(blob => { console.log(blob); File.readAsDataURL(blob); });
+            }
+        }
+        document.body.addEventListener('onload', run());
     </script>
 </body>
 
