@@ -1,0 +1,112 @@
+<html>
+
+<head>
+    <meta http-equiv="cache-control" content="no-store" />
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+    <div id="containerDiv">
+        <div id="inputDiv">
+            <div class="elementDiv">
+                <div class="textInputLabel">
+                    Length of password
+                </div>
+                <div class="InputValueDiv">
+                    <input type="number" value="10" id="passwordLength" class="inputFields">
+                </div>
+            </div>
+            <div class="elementDiv">
+                <div class="textInputLabel">
+                    Max word length
+                </div>
+                <div class="InputValueDiv">
+                    <input type="number" value="7" id="wordLength" class="inputFields">
+                </div>
+            </div>
+            <div class="elementDiv">
+                <div class="textInputLabel">
+                    Prefer double letter words ?
+                </div>
+                <div class="InputValueDiv">
+                    <label class="switch inputFields">
+                        <input type="checkbox" id="preferDouble">
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="elementDiv">
+                <div class="textInputLabel">
+                    Substitutions
+                </div>
+                <div class="InputValueDiv">
+                    <div style="display: grid; grid-template-rows: repeat(auto-fill,50px); width: inherit;">
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                        <div class="substitutionInputDiv">
+                            <input class="substitutionInputField inputFields inputSub">
+                            <div class="subArrow">
+                                &rarr;</div>
+                            <input class="substitutionInputField inputFields outputSub">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="wordListDiv">
+        </div>
+    </div>
+    <div id="textPrompt">
+        <div id="textPromptActual">
+            Copied over element<span id="textPromptWord"></span>
+        </div>
+    </div>
+
+    <!--
+        <button onclick="figureOutWord()">
+        click mem
+    </button>
+    <button onclick="fillDiv()">
+        click me
+    </button>
+    -->
+    <script src="./js/index.js">
+    </script>
+
+</body>
+
+</html>
