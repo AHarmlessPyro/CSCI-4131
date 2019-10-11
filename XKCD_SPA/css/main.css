@@ -1,0 +1,264 @@
+:root {
+    --top-height: 33px;
+    --body-padding: 8px;
+}
+
+body {
+    overflow: hidden;
+    padding: var(--body-padding);
+}
+
+@media (orientation:landscape) {
+    :root {
+        --input-div-width: 33%;
+    }
+    #containerDiv {
+        height: calc(100% - calc(2*var(--body-padding)));
+        height: -moz-fill-available;
+        height: -webkit-fill-available;
+        height: fill-available;
+        display: grid;
+        grid-template-columns: var(--input-div-width) calc(100% - var(--input-div-width));
+    }
+    #textPrompt {
+        position: fixed;
+        vertical-align: sub;
+        top: calc(100vh - 35px);
+        margin-left: var(--input-div-width);
+        margin-right: auto;
+        width: 100%;
+        width: -moz-fill-available;
+        width: -webkit-fill-available;
+        width: fill-available;
+        text-align: center;
+        opacity: 0;
+    }
+}
+
+@media (max-width: 960px), (orientation:portrait) {
+    :root {
+        --input-div-width: 50%;
+    }
+    #containerDiv {
+        height: calc(100% - calc(2*var(--body-padding)));
+        height: -moz-fill-available;
+        height: -webkit-fill-available;
+        height: fill-available;
+        display: grid;
+        grid-template-columns: var(--input-div-width) calc(100% - var(--input-div-width));
+    }
+    #textPrompt {
+        position: fixed;
+        vertical-align: sub;
+        top: calc(100vh - 35px);
+        margin-left: var(--input-div-width);
+        width: 100%;
+        width: -moz-fill-available;
+        width: -webkit-fill-available;
+        width: fill-available;
+        text-align: center;
+        opacity: 0;
+    }
+}
+
+.elementDiv {
+    grid-template-columns: 50% 50%;
+    display: grid;
+}
+
+#textPromptActual {
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: fit-content;
+    color: white;
+}
+
+#textPromptWord {
+    color: gold;
+}
+
+#wordListDiv {
+    overflow: auto;
+}
+
+.inputFields {
+    align-self: center;
+    justify-self: flex-end;
+    width: 169px;
+    font-size: 24px;
+}
+
+.InputValueDiv {
+    display: grid;
+}
+
+@font-face {
+    font-family: self-def-5;
+    src: url(../dat/RobotoMono-Light.ttf);
+}
+
+.textInputLabel {
+    color: white;
+    font-family: self-def-5;
+    font-size: 24px;
+    align-self: center;
+}
+
+#inputDiv {
+    background-color: black;
+    display: grid;
+    grid-template-rows: 20% 20% 20% 40%;
+    padding: 15px;
+    overflow: hidden;
+    height: 100%;
+    height: -moz-fill-available;
+    height: -webkit-fill-available;
+    height: fill-available;
+}
+
+#possiblePasswords {
+    transition: 0.5s
+}
+
+/*
+Code for text fadein from https://stackoverflow.com/a/43188531
+and https://jsfiddle.net/5ws33c8s/
+*/
+
+.fadebox {
+    height: var(--top-height);
+    overflow: hidden;
+}
+
+.fadeInWord {
+    text-align: center;
+    display: block;
+    font-size: 21px;
+    font-family: sans-serif;
+    line-height: var(--top-height);
+    text-decoration: underline;
+    transform: translateY(var(--top-height));
+    animation: fadeInText 300ms 0ms forwards;
+    margin-right: auto;
+    margin-left: auto;
+    width: fit-content;
+}
+
+.fadeOutPrompt {
+    animation-play-state: paused;
+    animation: fadeOut 7s 0s forwards;
+    opacity: 1;
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeInText {
+    from {
+        transform: translateY(var(--top-height));
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.substitutionInputDiv {
+    display: grid;
+    grid-template-columns: 45% 10% 45%;
+    overflow: hidden;
+}
+
+.substitutionInputField {
+    width: 100%;
+    width: -moz-fill-available;
+    width: -webkit-fill-available;
+    width: -fill-available;
+}
+
+.subArrow {
+    color: white;
+    text-align: center;
+    transform: translateY(10px);
+}
+
+/*
+This part is completely ripped from w3schools. Credit for css goes to them 
+in it's entirety
+*/
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+/* Hide default HTML checkbox */
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* The slider */
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: rgb(5, 195, 20);
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider::before {
+    background-color: rgb(240, 20, 20);
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
