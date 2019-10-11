@@ -6,6 +6,18 @@
 </head>
 
 <body>
+
+    <div id="initExplainDiv">
+    </div>
+    <div id="initExplainBox">
+        Press enter on any box to create password
+        <br>
+        <br>
+        Prefering Double lettered words makes usage of double lettered words 3 times as likely as non-double lettered words.
+        <br>
+        <button onclick="document.getElementById('initExplainBox').style.display = 'none';document.getElementById('initExplainDiv').style.display = 'none';"> CLICK ME TO DISMISS</button>
+    </div>
+    </div>
     <div id="containerDiv">
         <div id="inputDiv">
             <div class="elementDiv">
@@ -42,47 +54,47 @@
                 <div class="InputValueDiv">
                     <div style="display: grid; grid-template-rows: repeat(auto-fill,50px); width: inherit;">
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
                         </div>
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
                         </div>
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
                         </div>
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
                         </div>
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
                         </div>
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
                         </div>
                         <div class="substitutionInputDiv">
-                            <input class="substitutionInputField inputFields inputSub">
+                            <input class="substitutionInputField inputFields inputSub" onkeyup="fillDiv()">
                             <div class="subArrow">
                                 &rarr;</div>
-                            <input class="substitutionInputField inputFields outputSub">
-                        </div>
+                            <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
+                       </div>
                     </div>
                 </div>
             </div>
@@ -95,15 +107,6 @@
             Copied over element<span id="textPromptWord"></span>
         </div>
     </div>
-
-    <!--
-        <button onclick="figureOutWord()">
-        click mem
-    </button>
-    <button onclick="fillDiv()">
-        click me
-    </button>
-    -->
     <script src="./js/index.js">
     </script>
 
