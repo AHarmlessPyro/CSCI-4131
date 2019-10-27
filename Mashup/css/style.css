@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+
+#mapsDiv {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+    background-color: white;
+}
