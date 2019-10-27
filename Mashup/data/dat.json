@@ -1,0 +1,852 @@
+[
+    {
+        "position": 1,
+        "city": "New York[d]",
+        "state": "New York",
+        "2018.00": 8398748,
+        "2010.00": 8175133,
+        "percentage change": "2.74%",
+        "city size": 301.5,
+        "city size in km": 780.9,
+        "density": 28317,
+        "density in km": 10933,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+        "center": {
+            "lat": 40.6635,
+            "lng": -73.9387
+        }
+    },
+    {
+        "position": 2,
+        "city": "Los Angeles",
+        "state": "California",
+        "2018.00": 3990456,
+        "2010.00": 3792621,
+        "percentage change": "5.22%",
+        "city size": 468.7,
+        "city size in km": 1213.9,
+        "density": 8484,
+        "density in km": 3276,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+        "center": {
+            "lat": 34.0194,
+            "lng": -118.4108
+        }
+    },
+    {
+        "position": 3,
+        "city": "Chicago",
+        "state": "Illinois",
+        "2018.00": 2705994,
+        "2010.00": 2695598,
+        "percentage change": "0.39%",
+        "city size": 227.3,
+        "city size in km": 588.7,
+        "density": 11900,
+        "density in km": 4600,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+        "center": {
+            "lat": 41.8376,
+            "lng": -87.6818
+        }
+    },
+    {
+        "position": 4,
+        "city": "Houston[3]",
+        "state": "Texas",
+        "2018.00": 2325502,
+        "2010.00": 2100263,
+        "percentage change": "10.72%",
+        "city size": 637.5,
+        "city size in km": 1651.1,
+        "density": 3613,
+        "density in km": 1395,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+        "center": {
+            "lat": 29.7866,
+            "lng": -95.3909
+        }
+    },
+    {
+        "position": 5,
+        "city": "Phoenix",
+        "state": "Arizona",
+        "2018.00": 1660272,
+        "2010.00": 1445632,
+        "percentage change": "14.85%",
+        "city size": 517.6,
+        "city size in km": 1340.6,
+        "density": 3120,
+        "density in km": 1200,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json",
+        "center": {
+            "lat": 33.5722,
+            "lng": -112.0901
+        }
+    },
+    {
+        "position": 6,
+        "city": "Philadelphia[e]",
+        "state": "Pennsylvania",
+        "2018.00": 1584138,
+        "2010.00": 1526006,
+        "percentage change": "3.81%",
+        "city size": 134.2,
+        "city size in km": 347.6,
+        "density": 11683,
+        "density in km": 4511,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+        "center": {
+            "lat": 40.0094,
+            "lng": -75.1333
+        }
+    },
+    {
+        "position": 7,
+        "city": "San Antonio",
+        "state": "Texas",
+        "2018.00": 1532233,
+        "2010.00": 1327407,
+        "percentage change": "15.43%",
+        "city size": 461.0,
+        "city size in km": 1194.0,
+        "density": 3238,
+        "density in km": 1250,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+        "center": {
+            "lat": 29.4724,
+            "lng": -98.5251
+        }
+    },
+    {
+        "position": 8,
+        "city": "San Diego",
+        "state": "California",
+        "2018.00": 1425976,
+        "2010.00": 1307402,
+        "percentage change": "9.07%",
+        "city size": 325.2,
+        "city size in km": 842.3,
+        "density": 4325,
+        "density in km": 1670,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+        "center": {
+            "lat": 32.8153,
+            "lng": -117.1350
+        }
+    },
+    {
+        "position": 9,
+        "city": "Dallas",
+        "state": "Texas",
+        "2018.00": 1345047,
+        "2010.00": 1197816,
+        "percentage change": "12.29%",
+        "city size":  340.9,
+        "city size in km":  882.9,
+        "density": 3866,
+        "density in km": 1493,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+        "center": {
+            "lat": 32.7933,
+            "lng": -96.7665
+        }
+    },
+    {
+        "position": 10,
+        "city": "San Jose",
+        "state": "California",
+        "2018.00": 1030119,
+        "2010.00": 945942,
+        "percentage change": "8.90%",
+        "city size":  177.5,
+        "city size in km":  459.7,
+        "density": 5777,
+        "density in km": 2231,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json",
+        "center": {
+            "lat": 37.2967,
+            "lng": -121.8189
+        }
+    },
+    {
+        "position": 11,
+        "city": "Austin",
+        "state": "Texas",
+        "2018.00": 964254,
+        "2010.00": 790390,
+        "percentage change": "22.00%",
+        "city size":  312.7,
+        "city size in km":  809.9,
+        "density": 3031,
+        "density in km": 1170,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+        "center": {
+            "lat": 30.3039,
+            "lng": -97.7544
+        }
+    },
+    {
+        "position": 12,
+        "city": "Jacksonville[f]",
+        "state": "Florida",
+        "2018.00": 903889,
+        "2010.00": 821784,
+        "percentage change": "9.99%",
+        "city size":  747.4,
+        "city size in km": " 1935.8",
+        "density": 1178,
+        "density in km": 455,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/d5dbaf62e7106dc4.json",
+        "center": {
+            "lat": 30.3369,
+            "lng": -81.6616
+        }
+    },
+    {
+        "position": 13,
+        "city": "Fort Worth",
+        "state": "Texas",
+        "2018.00": 895008,
+        "2010.00": 741206,
+        "percentage change": "20.75%",
+        "city size":  342.9,
+        "city size in km":  888.1,
+        "density": 2491,
+        "density in km": 962,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json",
+        "center": {
+            "lat": 32.7815,
+            "lng": -97.3467
+        }
+    },
+    {
+        "position": 14,
+        "city": "Columbus",
+        "state": "Ohio",
+        "2018.00": 892533,
+        "2010.00": 787033,
+        "percentage change": "13.40%",
+        "city size":  218.5,
+        "city size in km":  565.9,
+        "density": 3936,
+        "density in km": 1520,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/3df0e3eb1e91170b.json",
+        "center": {
+            "lat": 39.9852,
+            "lng": -82.9848
+        }
+    },
+    {
+        "position": 15,
+        "city": "San Francisco[g]",
+        "state": "California",
+        "2018.00": 883305,
+        "2010.00": 805235,
+        "percentage change": "9.70%",
+        "city size":  46.9,
+        "city size in km":  121.5,
+        "density": 18569,
+        "density in km": 7170,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "center": {
+            "lat": 37.7272,
+            "lng": -123.0322
+        }
+    },
+    {
+        "position": 16,
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "2018.00": 872498,
+        "2010.00": 731424,
+        "percentage change": "19.29%",
+        "city size":  305.4,
+        "city size in km":  791.0,
+        "density": 2757,
+        "density in km": 1064,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json",
+        "center": {
+            "lat": 35.2078,
+            "lng": -80.8310
+        }
+    },
+    {
+        "position": 17,
+        "city": "Indianapolis[h]",
+        "state": "Indiana",
+        "2018.00": 867125,
+        "2010.00": 820445,
+        "percentage change": "5.69%",
+        "city size":  361.5,
+        "city size in km":  936.3,
+        "density": 2366,
+        "density in km": 914,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/018929347840059e.json",
+        "center": {
+            "lat": 39.7767,
+            "lng": -86.1459
+        }
+    },
+    {
+        "position": 18,
+        "city": "Seattle",
+        "state": "Washington",
+        "2018.00": 744955,
+        "2010.00": 608660,
+        "percentage change": "22.39%",
+        "city size":  83.8,
+        "city size in km":  217.0,
+        "density": 8405,
+        "density in km": 3245,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+        "center": {
+            "lat": 47.6205,
+            "lng": -122.3509
+        }
+    },
+    {
+        "position": 19,
+        "city": "Denver[i]",
+        "state": "Colorado",
+        "2018.00": 716492,
+        "2010.00": 600158,
+        "percentage change": "19.38%",
+        "city size":  153.3,
+        "city size in km":  397.0,
+        "density": 4521,
+        "density in km": 1746,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+        "center": {
+            "lat": 39.7619,
+            "lng": -104.8811
+        }
+    },
+    {
+        "position": 20,
+        "city": "Washington[j]",
+        "state": "District of Columbia",
+        "2018.00": 702455,
+        "2010.00": 601723,
+        "percentage change": "16.74%",
+        "city size":  61.1,
+        "city size in km":  158.2,
+        "density": 11148,
+        "density in km": 4304,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "center": {
+            "lat": 38.9041,
+            "lng": -77.0172
+        }
+    },
+    {
+        "position": 21,
+        "city": "Boston",
+        "state": "Massachusetts",
+        "2018.00": 694583,
+        "2010.00": 617594,
+        "percentage change": "12.47%",
+        "city size":  48.3,
+        "city size in km":  125.1,
+        "density": 13938,
+        "density in km": 5381,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+        "center": {
+            "lat": 42.3320,
+            "lng": -71.0202
+        }
+    },
+    {
+        "position": 22,
+        "city": "El Paso",
+        "state": "Texas",
+        "2018.00": 682669,
+        "2010.00": 649121,
+        "percentage change": "5.17%",
+        "city size":  256.8,
+        "city size in km":  665.1,
+        "density": 2660,
+        "density in km": 1030,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/6a0a3474d8c5113c.json",
+        "center": {
+            "lat": 31.8484,
+            "lng": -106.4270
+        }
+    },
+    {
+        "position": 23,
+        "city": "Detroit",
+        "state": "Michigan",
+        "2018.00": 672662,
+        "2010.00": 713777,
+        "percentage change": "−5.76%",
+        "city size":  138.8,
+        "city size in km":  359.5,
+        "density": 4847,
+        "density in km": 1871,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+        "center": {
+            "lat": 42.3830,
+            "lng": -83.1022
+        }
+    },
+    {
+        "position": 24,
+        "city": "Nashville[k]",
+        "state": "Tennessee",
+        "2018.00": 669053,
+        "2010.00": 601222,
+        "percentage change": "11.28%",
+        "city size":  475.9,
+        "city size in km": 1232.6,
+        "density": 1388,
+        "density in km": 536,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json",
+        "center": {
+            "lat": 36.1718,
+            "lng": -86.7850
+        }
+    },
+    {
+        "position": 25,
+        "city": "Portland",
+        "state": "Oregon",
+        "2018.00": 653115,
+        "2010.00": 583776,
+        "percentage change": "11.88%",
+        "city size":  133.5,
+        "city size in km":  345.8,
+        "density": 4793,
+        "density in km": 1851,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json",
+        "center": {
+            "lat": 45.5370,
+            "lng": -122.6500
+        }
+    },
+    {
+        "position": 26,
+        "city": "Memphis",
+        "state": "Tennessee",
+        "2018.00": 650618,
+        "2010.00": 646889,
+        "percentage change": "0.58%",
+        "city size":  317.4,
+        "city size in km":  822.1,
+        "density": 2056,
+        "density in km": 794,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/f995a9bd45d4a867.json",
+        "center": {
+            "lat": 35.1028,
+            "lng": -89.9774
+        }
+    },
+    {
+        "position": 27,
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "2018.00": 649021,
+        "2010.00": 579999,
+        "percentage change": "11.90%",
+        "city size":  606.3,
+        "city size in km": " 1570.3",
+        "density": 1053,
+        "density in km": 407,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/9531d4e3bbafc09d.json",
+        "center": {
+            "lat": 35.4671,
+            "lng": -97.5137
+        }
+    },
+    {
+        "position": 28,
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "2018.00": 644644,
+        "2010.00": 583756,
+        "percentage change": "10.43%",
+        "city size":  134.4,
+        "city size in km":  348.1,
+        "density": 4709,
+        "density in km": 1818,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json",
+        "center": {
+            "lat": 36.2292,
+            "lng": -115.2601
+        }
+    },
+    {
+        "position": 29,
+        "city": "Louisville[l]",
+        "state": "Kentucky",
+        "2018.00": 620118,
+        "2010.00": 597337,
+        "percentage change": "3.81%",
+        "city size":  263.5,
+        "city size in km":  682.5,
+        "density": 2339,
+        "density in km": 903,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/095534ad3107e0e6.json",
+        "center": {
+            "lat": 38.1654,
+            "lng": -85.6474
+        }
+    },
+    {
+        "position": 30,
+        "city": "Baltimore[m]",
+        "state": "Maryland",
+        "2018.00": 602495,
+        "2010.00": 620961,
+        "percentage change": "−2.97%",
+        "city size":  80.9,
+        "city size in km":  209.5,
+        "density": 7598,
+        "density in km": 2934,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json",
+        "center": {
+            "lat": 39.3000,
+            "lng": -76.6105
+        }
+    },
+    {
+        "position": 31,
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "2018.00": 592025,
+        "2010.00": 594833,
+        "percentage change": "−0.47%",
+        "city size":  96.2,
+        "city size in km":  249.2,
+        "density": 6186,
+        "density in km": 2388,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/2a93711775303f90.json",
+        "center": {
+            "lat": 43.0633,
+            "lng": -87.9667
+        }
+    },
+    {
+        "position": 32,
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "2018.00": 560218,
+        "2010.00": 545852,
+        "percentage change": "2.63%",
+        "city size":  188.2,
+        "city size in km":  487.4,
+        "density": 2972,
+        "density in km": 1147,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/813a485b26b8dae2.json",
+        "center": {
+            "lat": 35.1056,
+            "lng": -106.6474
+        }
+    },
+    {
+        "position": 33,
+        "city": "Tucson",
+        "state": "Arizona",
+        "2018.00": 545975,
+        "2010.00": 520116,
+        "percentage change": "4.97%",
+        "city size":  230.8,
+        "city size in km":  597.8,
+        "density": 2299,
+        "density in km": 888,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/013379ee5729a5e6.json",
+        "center": {
+            "lat": 32.1531,
+            "lng": -110.8706
+        }
+    },
+    {
+        "position": 34,
+        "city": "Fresno",
+        "state": "California",
+        "2018.00": 530093,
+        "2010.00": 494665,
+        "percentage change": "7.16%",
+        "city size":  114.4,
+        "city size in km":  296.3,
+        "density": 4563,
+        "density in km": 1762,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/944c03c1d85ef480.json",
+        "center": {
+            "lat": 36.7836,
+            "lng": -119.7934
+        }
+    },
+    {
+        "position": 35,
+        "city": "Mesa",
+        "state": "Arizona",
+        "2018.00": 508958,
+        "2010.00": 439041,
+        "percentage change": "15.92%",
+        "city size":  137.9,
+        "city size in km":  357.2,
+        "density": 3514,
+        "density in km": 1357,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/44d207663001f00b.json",
+        "center": {
+            "lat": 33.4019,
+            "lng": -111.7174
+        }
+    },
+    {
+        "position": 36,
+        "city": "Sacramento",
+        "state": "California",
+        "2018.00": 508529,
+        "2010.00": 466488,
+        "percentage change": "9.01%",
+        "city size":  97.9,
+        "city size in km":  253.6,
+        "density": 5059,
+        "density in km": 1953,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json",
+        "center": {
+            "lat": 38.5666,
+            "lng": -121.4686
+        }
+    },
+    {
+        "position": 37,
+        "city": "Atlanta",
+        "state": "Georgia",
+        "2018.00": 498044,
+        "2010.00": 420003,
+        "percentage change": "18.58%",
+        "city size":  133.5,
+        "city size in km":  345.8,
+        "density": 3539,
+        "density in km": 1366,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+        "center": {
+            "lat": 33.7629,
+            "lng": -84.4227
+        }
+    },
+    {
+        "position": 38,
+        "city": "Kansas City",
+        "state": "Missouri",
+        "2018.00": 491918,
+        "2010.00": 459787,
+        "percentage change": "6.99%",
+        "city size":  315.0,
+        "city size in km":  815.8,
+        "density": 1528,
+        "density in km": 590,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/9a974dfc8efb32a0.json",
+        "center": {
+            "lat": 39.1251,
+            "lng": -94.5510
+        }
+    },
+    {
+        "position": 39,
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "2018.00": 472688,
+        "2010.00": 416427,
+        "percentage change": "13.51%",
+        "city size":  195.6,
+        "city size in km":  506.6,
+        "density": 2378,
+        "density in km": 918,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/adc95f2911133646.json",
+        "center": {
+            "lat": 38.8673,
+            "lng": -104.7607
+        }
+    },
+    {
+        "position": 40,
+        "city": "Miami",
+        "state": "Florida",
+        "2018.00": 470914,
+        "2010.00": 399457,
+        "percentage change": "17.89%",
+        "city size":  36.0,
+        "city size in km":  93.2,
+        "density": 12599,
+        "density in km": 4865,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json",
+        "center": {
+            "lat": 25.7752,
+            "lng": -80.2086
+        }
+    },
+    {
+        "position": 41,
+        "city": "Raleigh",
+        "state": "North Carolina",
+        "2018.00": 469298,
+        "2010.00": 403892,
+        "percentage change": "16.19%",
+        "city size":  145.1,
+        "city size in km":  375.8,
+        "density": 3163,
+        "density in km": 1221,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json",
+        "center": {
+            "lat": 35.8306,
+            "lng": -78.6418
+        }
+    },
+    {
+        "position": 42,
+        "city": "Omaha",
+        "state": "Nebraska",
+        "2018.00": 468262,
+        "2010.00": 408958,
+        "percentage change": "14.50%",
+        "city size":  133.2,
+        "city size in km":  345.0,
+        "density": 3356,
+        "density in km": 1296,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/a84b808ce3f11719.json",
+        "center": {
+            "lat": 41.2644,
+            "lng": -96.0451
+        }
+    },
+    {
+        "position": 43,
+        "city": "Long Beach",
+        "state": "California",
+        "2018.00": 467354,
+        "2010.00": 462257,
+        "percentage change": "1.10%",
+        "city size":  50.3,
+        "city size in km":  130.3,
+        "density": 9347,
+        "density in km": 3609,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json",
+        "center": {
+            "lat": 33.8092,
+            "lng": -118.1553
+        }
+    },
+    {
+        "position": 44,
+        "city": "Virginia Beach[m]",
+        "state": "Virginia",
+        "2018.00": 450189,
+        "2010.00": 437994,
+        "percentage change": "2.78%",
+        "city size":  244.7,
+        "city size in km":  633.8,
+        "density": 1850,
+        "density in km": 710,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json",
+        "center": {
+            "lat": 36.7800,
+            "lng": -76.0252
+        }
+    },
+    {
+        "position": 45,
+        "city": "Oakland",
+        "state": "California",
+        "2018.00": 429082,
+        "2010.00": 390724,
+        "percentage change": "9.82%",
+        "city size":  55.9,
+        "city size in km":  144.8,
+        "density": 7514,
+        "density in km": 2901,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/ab2f2fac83aa388d.json",
+        "center": {
+            "lat": 37.7698,
+            "lng": -122.2257
+        }
+    },
+    {
+        "position": 46,
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "2018.00": 425403,
+        "2010.00": 382578,
+        "percentage change": "11.19%",
+        "city size":  54.0,
+        "city size in km":  139.9,
+        "density": 7660,
+        "density in km": 2960,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json",
+        "center": {
+            "lat": 44.9633,
+            "lng": -93.2683
+        }
+    },
+    {
+        "position": 47,
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "2018.00": 400669,
+        "2010.00": 391906,
+        "percentage change": "2.24%",
+        "city size":  196.8,
+        "city size in km":  509.7,
+        "density": 2048,
+        "density in km": 791,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/cb74aaf709812e0f.json",
+        "center": {
+            "lat": 36.1279,
+            "lng": -95.9023
+        }
+    },
+    {
+        "position": 48,
+        "city": "Arlington",
+        "state": "Texas",
+        "2018.00": 398112,
+        "2010.00": 365438,
+        "percentage change": "8.94%",
+        "city size":  95.8,
+        "city size in km":  248.1,
+        "density": 4100,
+        "density in km": 1600,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+        "center": {
+            "lat": 32.7007,
+            "lng": -97.1247
+        }
+    },
+    {
+        "position": 49,
+        "city": "Tampa",
+        "state": "Florida",
+        "2018.00": 392890,
+        "2010.00": 335709,
+        "percentage change": "17.03%",
+        "city size":  113.4,
+        "city size in km":  293.7,
+        "density": 3326,
+        "density in km": 1284,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/dc62519fda13b4ec.json",
+        "center": {
+            "lat": 27.9701,
+            "lng": -82.4797
+        }
+    },
+    {
+        "position": 50,
+        "city": "New Orleans[n]",
+        "state": "Louisiana",
+        "2018.00": 391006,
+        "2010.00": 343829,
+        "percentage change": "13.72%",
+        "city size":  169.4,
+        "city size in km":  438.7,
+        "density": 2311,
+        "density in km": 892,
+        "tweet Loc": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json",
+        "center": {
+            "lat": 30.0534,
+            "lng": -89.9345
+        }
+    }
+]
