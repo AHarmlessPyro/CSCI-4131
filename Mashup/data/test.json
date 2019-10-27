@@ -1,0 +1,4240 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sat Oct 26 17:37:37 +0000 2019",
+            "id": 1188147686119264257,
+            "id_str": "1188147686119264257",
+            "text": "I’m so behind on games of this year. Still need to finish Gears 5, but now I also have Goose Game, Modern Warfare,… https://t.co/anxhaWpttv",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/anxhaWpttv",
+                        "expanded_url": "https://twitter.com/i/web/status/1188147686119264257",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 29994187,
+                "id_str": "29994187",
+                "name": "Brian Shea",
+                "screen_name": "BrianPShea",
+                "location": "Minneapolis, MN",
+                "description": "Digital Editor of Game Informer Magazine. @brianpshea on Instagram. Video Games. MMA. Music. Fitness. https://t.co/vWX2PSFFOl",
+                "url": "https://t.co/gJH563ehQf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gJH563ehQf",
+                                "expanded_url": "http://gameinformer.com",
+                                "display_url": "gameinformer.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vWX2PSFFOl",
+                                "expanded_url": "http://www.instagram.com/brianpshea",
+                                "display_url": "instagram.com/brianpshea",
+                                "indices": [
+                                    102,
+                                    125
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 7754,
+                "friends_count": 1009,
+                "listed_count": 193,
+                "created_at": "Thu Apr 09 14:31:10 +0000 2009",
+                "favourites_count": 35834,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 60759,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1183510167440240640/Ayhu-gdN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183510167440240640/Ayhu-gdN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/29994187/1551656819",
+                "profile_link_color": "000D99",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 16:48:31 +0000 2019",
+            "id": 1188135329108283392,
+            "id_str": "1188135329108283392",
+            "text": "Modern warfare with the stream fam  had me up till 4am great times ugh but I’m tired lbvs !",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1171877137567092736,
+                "id_str": "1171877137567092736",
+                "name": "ink ang",
+                "screen_name": "angie52375650",
+                "location": "Hudson, WI",
+                "description": "girl gamer ❤️ youtuber ❤️check me out inkang:)! show the love follow me on all my adventures!",
+                "url": "https://t.co/I3Bj4G9HPf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/I3Bj4G9HPf",
+                                "expanded_url": "https://mixer.com/INKANG90",
+                                "display_url": "mixer.com/INKANG90",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 38,
+                "friends_count": 71,
+                "listed_count": 1,
+                "created_at": "Wed Sep 11 20:04:25 +0000 2019",
+                "favourites_count": 15,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1171877307000197120/T62FlB5H_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171877307000197120/T62FlB5H_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171877137567092736/1568232628",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 14:01:55 +0000 2019",
+            "id": 1188093402329632768,
+            "id_str": "1188093402329632768",
+            "text": "RT @SilkySkyKitten: Me: \"Playing the new Modern Warfare reminds me of how I used to play so much CoD. Feels like coming home\"\n\nSome Dude on…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SilkySkyKitten",
+                        "name": "Radical Hipster Dog",
+                        "id": 531987833,
+                        "id_str": "531987833",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1654809254,
+                "id_str": "1654809254",
+                "name": "Kibs'N'Bits",
+                "screen_name": "KibaTheNerdWolf",
+                "location": "Minnesota, USA",
+                "description": "Hey I'm Kiba. Just your friendly neighborhood nerdy furry wolf 🐺🗡️🌈\nIcon By @S0LARDOG\nBanner By AriaDog \nhttps://t.co/qub66pYQn8",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qub66pYQn8",
+                                "expanded_url": "http://furaffinity.net/user/ariadog",
+                                "display_url": "furaffinity.net/user/ariadog",
+                                "indices": [
+                                    105,
+                                    128
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 35,
+                "friends_count": 143,
+                "listed_count": 1,
+                "created_at": "Thu Aug 08 07:23:22 +0000 2013",
+                "favourites_count": 18215,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1268,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1181283537338667008/uUTnCvTr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181283537338667008/uUTnCvTr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654809254/1554837099",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Oct 26 14:01:07 +0000 2019",
+                "id": 1188093202462580737,
+                "id_str": "1188093202462580737",
+                "text": "Me: \"Playing the new Modern Warfare reminds me of how I used to play so much CoD. Feels like coming home\"\n\nSome Dud… https://t.co/zgKtfjh37k",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/zgKtfjh37k",
+                            "expanded_url": "https://twitter.com/i/web/status/1188093202462580737",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 531987833,
+                    "id_str": "531987833",
+                    "name": "Radical Hipster Dog",
+                    "screen_name": "SilkySkyKitten",
+                    "location": "Oakdale, MN, USA",
+                    "description": "[ Silky / Taylor | Husky | 26 | Bi ] Furry & Sanic trash, huge Train & Synth nerd, electronic musician, anti-fascist AF and all around Radical Doggo. (NSFW too)",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 83,
+                    "friends_count": 221,
+                    "listed_count": 1,
+                    "created_at": "Wed Mar 21 06:54:42 +0000 2012",
+                    "favourites_count": 34188,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 26945,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1181281387749363712/j_YQbpW6_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181281387749363712/j_YQbpW6_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/531987833/1543198252",
+                    "profile_link_color": "F58EA8",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 14:01:07 +0000 2019",
+            "id": 1188093202462580737,
+            "id_str": "1188093202462580737",
+            "text": "Me: \"Playing the new Modern Warfare reminds me of how I used to play so much CoD. Feels like coming home\"\n\nSome Dud… https://t.co/zgKtfjh37k",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zgKtfjh37k",
+                        "expanded_url": "https://twitter.com/i/web/status/1188093202462580737",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 531987833,
+                "id_str": "531987833",
+                "name": "Radical Hipster Dog",
+                "screen_name": "SilkySkyKitten",
+                "location": "Oakdale, MN, USA",
+                "description": "[ Silky / Taylor | Husky | 26 | Bi ] Furry & Sanic trash, huge Train & Synth nerd, electronic musician, anti-fascist AF and all around Radical Doggo. (NSFW too)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 83,
+                "friends_count": 221,
+                "listed_count": 1,
+                "created_at": "Wed Mar 21 06:54:42 +0000 2012",
+                "favourites_count": 34188,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 26945,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1181281387749363712/j_YQbpW6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181281387749363712/j_YQbpW6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/531987833/1543198252",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 11:23:09 +0000 2019",
+            "id": 1188053446064144384,
+            "id_str": "1188053446064144384",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 608279335,
+                "id_str": "608279335",
+                "name": "Thea Dash",
+                "screen_name": "TheaDash",
+                "location": "Cloudsdale,Equestria Zone",
+                "description": "#PreCureWarriors II/#プリキュア無双 II, Coming in October 5th 2019",
+                "url": "https://t.co/9u7s5JJme5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/9u7s5JJme5",
+                                "expanded_url": "http://www.facebook.com/TheaDash",
+                                "display_url": "facebook.com/TheaDash",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 368,
+                "friends_count": 1582,
+                "listed_count": 39,
+                "created_at": "Thu Jun 14 16:20:25 +0000 2012",
+                "favourites_count": 706,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 135088,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1090136565836214272/2NeI2BZ-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090136565836214272/2NeI2BZ-_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/608279335/1569996902",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 04:18:09 +0000 2019",
+            "id": 1187946491433889792,
+            "id_str": "1187946491433889792",
+            "text": "I got no witty comment here. This game is just so good and gripping and we're going deeper into the story.… https://t.co/pXM0Z3Txsk",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pXM0Z3Txsk",
+                        "expanded_url": "https://twitter.com/i/web/status/1187946491433889792",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 191628746,
+                "id_str": "191628746",
+                "name": "Chris",
+                "screen_name": "OfficerRedfield",
+                "location": "Ramsey, MN",
+                "description": "I'm a simple man who makes average YouTube content for a small crowd.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 31,
+                "friends_count": 337,
+                "listed_count": 2,
+                "created_at": "Thu Sep 16 22:58:47 +0000 2010",
+                "favourites_count": 1279,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2229,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1000120823385022464/s2Mi80nm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000120823385022464/s2Mi80nm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/191628746/1523051662",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 04:04:47 +0000 2019",
+            "id": 1187943130684968960,
+            "id_str": "1187943130684968960",
+            "text": "No ones buying me modern warfare. I’m sick \nI can’t believe the world doesn’t revolve around me. https://t.co/1NAqwh7p8G",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1187943125005864962,
+                        "id_str": "1187943125005864962",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EHxr-mtXkAImMT2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHxr-mtXkAImMT2.jpg",
+                        "url": "https://t.co/1NAqwh7p8G",
+                        "display_url": "pic.twitter.com/1NAqwh7p8G",
+                        "expanded_url": "https://twitter.com/Quis_sutton/status/1187943130684968960/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 220,
+                                "h": 268,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 220,
+                                "h": 268,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 220,
+                                "h": 268,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1187943125005864962,
+                        "id_str": "1187943125005864962",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EHxr-mtXkAImMT2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHxr-mtXkAImMT2.jpg",
+                        "url": "https://t.co/1NAqwh7p8G",
+                        "display_url": "pic.twitter.com/1NAqwh7p8G",
+                        "expanded_url": "https://twitter.com/Quis_sutton/status/1187943130684968960/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "medium": {
+                                "w": 220,
+                                "h": 268,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 220,
+                                "h": 268,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 220,
+                                "h": 268,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                55,
+                                67
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/EHxr-mtXkAImMT2.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 598898012,
+                "id_str": "598898012",
+                "name": "quisquis",
+                "screen_name": "Quis_sutton",
+                "location": "Minneapolis, MN",
+                "description": "wilding over here",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 805,
+                "friends_count": 648,
+                "listed_count": 1,
+                "created_at": "Mon Jun 04 03:37:40 +0000 2012",
+                "favourites_count": 18906,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 13585,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1137417094822338560/t4paJcYr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137417094822338560/t4paJcYr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/598898012/1571151678",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 01:01:44 +0000 2019",
+            "id": 1187897064719605760,
+            "id_str": "1187897064719605760",
+            "text": "@InfinityWard OMG please turn down the volume on the Modern Warfare splash art intro, my ears fucking hurt",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "InfinityWard",
+                        "name": "Infinity Ward",
+                        "id": 18742444,
+                        "id_str": "18742444",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 18742444,
+            "in_reply_to_user_id_str": "18742444",
+            "in_reply_to_screen_name": "InfinityWard",
+            "user": {
+                "id": 3068763479,
+                "id_str": "3068763479",
+                "name": "🌸Ka1adin🌸",
+                "screen_name": "Kaladin_Jacob",
+                "location": "Minneapolis, MN",
+                "description": "20, Very depressed, sort of a dumbass, I work as a Barista ☕️🍵 (^～^;)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 176,
+                "friends_count": 2510,
+                "listed_count": 0,
+                "created_at": "Tue Mar 03 22:56:58 +0000 2015",
+                "favourites_count": 22840,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 18005,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1172413779587420160/hr-LvEmB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172413779587420160/hr-LvEmB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3068763479/1571020815",
+                "profile_link_color": "FF50AA",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sat Oct 26 00:55:07 +0000 2019",
+            "id": 1187895395986411520,
+            "id_str": "1187895395986411520",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 813244354059993089,
+                "id_str": "813244354059993089",
+                "name": "The Loss Soldier's",
+                "screen_name": "griffingold55",
+                "location": "United States",
+                "description": "Just A Soldier That Retweet News Likes: Memes, Steam, YouTuber, Xbox, PlayStation, Nintendo, PC, Movies, And World News. Enjoy Your Life While It Last!🎮🍻",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 416,
+                "friends_count": 37,
+                "listed_count": 43,
+                "created_at": "Mon Dec 26 04:45:38 +0000 2016",
+                "favourites_count": 79077,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 191178,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1167612773750255617/UmrW2NsC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167612773750255617/UmrW2NsC_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/813244354059993089/1567215829",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 23:02:48 +0000 2019",
+            "id": 1187867133717483521,
+            "id_str": "1187867133717483521",
+            "text": "@majornelson Single player. Favorite moment is when the nuke goes off in Modern Warfare (original). \n\n#freecodefridaycontest",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "freecodefridaycontest",
+                        "indices": [
+                            102,
+                            124
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "majornelson",
+                        "name": "🅻🅰🆁🆁🆈 ☁ 🅷🆁🆈🅱",
+                        "id": 15913,
+                        "id_str": "15913",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+            "in_reply_to_status_id": 1187852183191973888,
+            "in_reply_to_status_id_str": "1187852183191973888",
+            "in_reply_to_user_id": 15913,
+            "in_reply_to_user_id_str": "15913",
+            "in_reply_to_screen_name": "majornelson",
+            "user": {
+                "id": 14565914,
+                "id_str": "14565914",
+                "name": "Jeff Forner",
+                "screen_name": "J_Fo",
+                "location": "Carver, Minnesota",
+                "description": "A nobody on the internet. Pay no attention to this man. \n🎮 | 🔊 | 🎧 | 🖥",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 49,
+                "friends_count": 96,
+                "listed_count": 6,
+                "created_at": "Mon Apr 28 05:29:05 +0000 2008",
+                "favourites_count": 237,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7661,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/654089439384367104/myxwil2R_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/654089439384367104/myxwil2R_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14565914/1558329879",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 22:03:09 +0000 2019",
+            "id": 1187852119522627584,
+            "id_str": "1187852119522627584",
+            "text": "✔️ kicked ass on designs\n✔️ spread positive energy to my peers\n✔️ scored a copy of Modern Warfare\n✔️ turned more pe… https://t.co/FQaL8K12gB",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/FQaL8K12gB",
+                        "expanded_url": "https://twitter.com/i/web/status/1187852119522627584",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14872213,
+                "id_str": "14872213",
+                "name": "Nic Regis (Niris)",
+                "screen_name": "mr_niris",
+                "location": "Saint Paul, Minnesota",
+                "description": "UI/UX Designer | Destiny Infographic Guy | i tweet about anime, k-tunes, movies and video games in lowercase letters. | biz: nic@nicregis.com",
+                "url": "https://t.co/DGEqikV5bZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/DGEqikV5bZ",
+                                "expanded_url": "http://niris.tv",
+                                "display_url": "niris.tv",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7585,
+                "friends_count": 534,
+                "listed_count": 94,
+                "created_at": "Thu May 22 19:24:28 +0000 2008",
+                "favourites_count": 16557,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 87642,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E5E5E5",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1168574627515383808/5O9F-F1v_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168574627515383808/5O9F-F1v_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14872213/1565969935",
+                "profile_link_color": "00B8F0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "1A191A",
+                "profile_text_color": "D97409",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 27,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 21:46:54 +0000 2019",
+            "id": 1187848030805999617,
+            "id_str": "1187848030805999617",
+            "text": "@JackJacksharpe5 Even within the COD franchise, I think Treyarch handles their controversial moments in World at Wa… https://t.co/5J4UHLysgL",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JackJacksharpe5",
+                        "name": "Jack Sharpe 🌈",
+                        "id": 2781110975,
+                        "id_str": "2781110975",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/5J4UHLysgL",
+                        "expanded_url": "https://twitter.com/i/web/status/1187848030805999617",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1187837802270134284,
+            "in_reply_to_status_id_str": "1187837802270134284",
+            "in_reply_to_user_id": 2781110975,
+            "in_reply_to_user_id_str": "2781110975",
+            "in_reply_to_screen_name": "JackJacksharpe5",
+            "user": {
+                "id": 2567608620,
+                "id_str": "2567608620",
+                "name": "Taylor Pechter",
+                "screen_name": "TheInspecter",
+                "location": "Eden Prairie, MN",
+                "description": "Comics enthusiast | hair metal fanatic | casual gamer | moviegoer | Contributor @ComicsBookcase | Le Cordon Bleu MSP ‘16 | Normandale ‘18",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 607,
+                "friends_count": 700,
+                "listed_count": 11,
+                "created_at": "Sat Jun 14 19:05:42 +0000 2014",
+                "favourites_count": 41198,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 46915,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1154465092756488192/slEryRAU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154465092756488192/slEryRAU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2567608620/1466882202",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 21:40:03 +0000 2019",
+            "id": 1187846305831407617,
+            "id_str": "1187846305831407617",
+            "text": "Enjoy Modern Warfare fellas! I'm getting it on PS4 by the end of the year and commencing it on 1-1-2020!! ^^",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 867137194854633472,
+                "id_str": "867137194854633472",
+                "name": "Katie Kimlinger",
+                "screen_name": "AmaliaTrevion",
+                "location": "Newport, MN",
+                "description": "Heya! Katie, 36. Gamer Girl. Fan of Final Fantasy, Anime, VG Music, First-Person & Third-Person Shooter Games. PSN: AmaliaTrevion",
+                "url": "https://t.co/MD6tCtUdJi",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/MD6tCtUdJi",
+                                "expanded_url": "http://youtube.com/trk70",
+                                "display_url": "youtube.com/trk70",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 448,
+                "friends_count": 501,
+                "listed_count": 2,
+                "created_at": "Tue May 23 21:56:32 +0000 2017",
+                "favourites_count": 6604,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8783,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1141531125837455360/zEXhTwxA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141531125837455360/zEXhTwxA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/867137194854633472/1571870158",
+                "profile_link_color": "000080",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 19:00:59 +0000 2019",
+            "id": 1187806276853649411,
+            "id_str": "1187806276853649411",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 740874548841615361,
+                "id_str": "740874548841615361",
+                "name": "『     』",
+                "screen_name": "Blank000O",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 152,
+                "friends_count": 104,
+                "listed_count": 0,
+                "created_at": "Thu Jun 09 11:53:52 +0000 2016",
+                "favourites_count": 127684,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 110601,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1108623356683800576/YQgZJ1me_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108623356683800576/YQgZJ1me_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/740874548841615361/1561266925",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 18:37:25 +0000 2019",
+            "id": 1187800345554116609,
+            "id_str": "1187800345554116609",
+            "text": "9:30am yesterday vs 11:30 pm yesterday. \n\nWelcome to the big leagues, Modern Warfare. https://t.co/dzvkR9cDOZ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1187800336926461952,
+                        "id_str": "1187800336926461952",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHvqHPqXUAAkS_L.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHvqHPqXUAAkS_L.jpg",
+                        "url": "https://t.co/dzvkR9cDOZ",
+                        "display_url": "pic.twitter.com/dzvkR9cDOZ",
+                        "expanded_url": "https://twitter.com/dillonpomeroy/status/1187800345554116609/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 554,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 946,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 314,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1187800336926461952,
+                        "id_str": "1187800336926461952",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHvqHPqXUAAkS_L.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHvqHPqXUAAkS_L.jpg",
+                        "url": "https://t.co/dzvkR9cDOZ",
+                        "display_url": "pic.twitter.com/dzvkR9cDOZ",
+                        "expanded_url": "https://twitter.com/dillonpomeroy/status/1187800345554116609/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 554,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 946,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 314,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1187800336930611200,
+                        "id_str": "1187800336930611200",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHvqHPrWoAAsJhm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHvqHPrWoAAsJhm.jpg",
+                        "url": "https://t.co/dzvkR9cDOZ",
+                        "display_url": "pic.twitter.com/dzvkR9cDOZ",
+                        "expanded_url": "https://twitter.com/dillonpomeroy/status/1187800345554116609/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 554,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 314,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 946,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 134597030,
+                "id_str": "134597030",
+                "name": "Dillon Pomeroy",
+                "screen_name": "dillonpomeroy",
+                "location": "Minneapolis, MN",
+                "description": "Marketing Consultant | Digital Media | Esports | #marketing #futurism #tech #esports | @djpfocus",
+                "url": "https://t.co/M2iRwhg7Dt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/M2iRwhg7Dt",
+                                "expanded_url": "https://djpfocus.com",
+                                "display_url": "djpfocus.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 642,
+                "friends_count": 736,
+                "listed_count": 25,
+                "created_at": "Sun Apr 18 22:30:27 +0000 2010",
+                "favourites_count": 10994,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7801,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1167863134310166528/KX8O9rv9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167863134310166528/KX8O9rv9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/134597030/1565992161",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "fe577a7e304136b4",
+                "url": "https://api.twitter.com/1.1/geo/id/fe577a7e304136b4.json",
+                "place_type": "city",
+                "name": "Edina",
+                "full_name": "Edina, MN",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -93.402474,
+                                44.8598201
+                            ],
+                            [
+                                -93.318726,
+                                44.8598201
+                            ],
+                            [
+                                -93.318726,
+                                44.930624
+                            ],
+                            [
+                                -93.402474,
+                                44.930624
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 17:18:40 +0000 2019",
+            "id": 1187780527618777089,
+            "id_str": "1187780527618777089",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 621503435,
+                "id_str": "621503435",
+                "name": "Everett Lamb",
+                "screen_name": "everettjlamb",
+                "location": "Richmond Hill, Ontario, Canada",
+                "description": "Animals Gamebooks God/Jesus Movies Music Nature Photography Video Games",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 30,
+                "friends_count": 80,
+                "listed_count": 1,
+                "created_at": "Fri Jun 29 02:42:36 +0000 2012",
+                "favourites_count": 460,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 57910,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/733022628190007296/9aIlK-1M_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/733022628190007296/9aIlK-1M_normal.jpg",
+                "profile_link_color": "60B31D",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 17:08:25 +0000 2019",
+            "id": 1187777947249209344,
+            "id_str": "1187777947249209344",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2271410095,
+                "id_str": "2271410095",
+                "name": "Oka Tedjo #MiFan",
+                "screen_name": "panggilajawahyu",
+                "location": "Yogyakarta, Indonesia",
+                "description": "Liverpool FC, Internazionale Milan, blink182, and JKT48 (especiallly, the lovely T.I Elizabeth)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 250,
+                "friends_count": 660,
+                "listed_count": 13,
+                "created_at": "Wed Jan 01 09:17:33 +0000 2014",
+                "favourites_count": 22270,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 37329,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1171096110502252544/Lt9BLpU8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171096110502252544/Lt9BLpU8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271410095/1395929881",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 17:05:21 +0000 2019",
+            "id": 1187777179066617857,
+            "id_str": "1187777179066617857",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 188006066,
+                "id_str": "188006066",
+                "name": "Jeff Akervik",
+                "screen_name": "JeffAkervik",
+                "location": "Minneapolis, MN",
+                "description": "Father, husband, creative director at @GameInformer, and Golden Gopher hockey fan. Italy, french fries, The Legend of Zelda, and apples for the win.",
+                "url": "https://t.co/gJH563vSHN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gJH563vSHN",
+                                "expanded_url": "http://gameinformer.com",
+                                "display_url": "gameinformer.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 783,
+                "friends_count": 640,
+                "listed_count": 14,
+                "created_at": "Tue Sep 07 18:10:43 +0000 2010",
+                "favourites_count": 251,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4989,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/529784559525576704/kpbitzhZ_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/529784559525576704/kpbitzhZ_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/188006066/1568504400",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 17:01:52 +0000 2019",
+            "id": 1187776298606678016,
+            "id_str": "1187776298606678016",
+            "text": "RT @gameinformer: On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of Duty 4:…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gameinformer",
+                        "name": "Game Informer",
+                        "id": 20273398,
+                        "id_str": "20273398",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 81636418,
+                "id_str": "81636418",
+                "name": "Satria Jaga Wibawa",
+                "screen_name": "Kari_Ninja",
+                "location": "Middle Earth",
+                "description": "Nothing Is True Everything Is Permitted|Ars Longa Vita Brevis|Sic Parvis Magna",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 908,
+                "friends_count": 303,
+                "listed_count": 4,
+                "created_at": "Sun Oct 11 16:59:21 +0000 2009",
+                "favourites_count": 776,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 152074,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1159876399810748416/OpdwBVP2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159876399810748416/OpdwBVP2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/81636418/1565530131",
+                "profile_link_color": "410EE8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "FF0000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+                "id": 1187776159162998785,
+                "id_str": "1187776159162998785",
+                "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/t4fiwwtpd4",
+                            "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 20273398,
+                    "id_str": "20273398",
+                    "name": "Game Informer",
+                    "screen_name": "gameinformer",
+                    "location": "Minneapolis",
+                    "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                    "url": "https://t.co/9shAEBwVm0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/9shAEBwVm0",
+                                    "expanded_url": "http://www.gameinformer.com",
+                                    "display_url": "gameinformer.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2378493,
+                    "friends_count": 116803,
+                    "listed_count": 9127,
+                    "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                    "favourites_count": 135,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 75308,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "3788C2",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 26,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 17:01:18 +0000 2019",
+            "id": 1187776159162998785,
+            "id_str": "1187776159162998785",
+            "text": "On today's live episode of Replay, we're celebrating Call of Duty: Modern Warfare's release by revisiting Call of D… https://t.co/t4fiwwtpd4",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/t4fiwwtpd4",
+                        "expanded_url": "https://twitter.com/i/web/status/1187776159162998785",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20273398,
+                "id_str": "20273398",
+                "name": "Game Informer",
+                "screen_name": "gameinformer",
+                "location": "Minneapolis",
+                "description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+                "url": "https://t.co/9shAEBwVm0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/9shAEBwVm0",
+                                "expanded_url": "http://www.gameinformer.com",
+                                "display_url": "gameinformer.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2378493,
+                "friends_count": 116803,
+                "listed_count": 9127,
+                "created_at": "Fri Feb 06 21:23:00 +0000 2009",
+                "favourites_count": 135,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 75308,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3788C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145690544124944384/t-gg_wun_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 13:09:23 +0000 2019",
+            "id": 1187717795817119744,
+            "id_str": "1187717795817119744",
+            "text": "Modern Warfare was so much fun last night.\n\nI registered for the WL but I don't think i'll be playing any of the ga… https://t.co/0tkxviMYid",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0tkxviMYid",
+                        "expanded_url": "https://twitter.com/i/web/status/1187717795817119744",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3655950617,
+                "id_str": "3655950617",
+                "name": "Daniel Torres",
+                "screen_name": "ninjaciego",
+                "location": "Minneapolis, MN",
+                "description": "EA Game Changer | r/FIFA Mod | FUT Addict | Ice Cream Aficionado | 🇲🇽 | Tigres UANL",
+                "url": "https://t.co/JxJuWdjVI5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JxJuWdjVI5",
+                                "expanded_url": "http://twitch.tv/ninjaciego",
+                                "display_url": "twitch.tv/ninjaciego",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 732,
+                "friends_count": 98,
+                "listed_count": 7,
+                "created_at": "Mon Sep 14 19:07:21 +0000 2015",
+                "favourites_count": 2197,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 10091,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/813874121402617860/1V6Cx8et_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/813874121402617860/1V6Cx8et_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3655950617/1565662362",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 10:50:57 +0000 2019",
+            "id": 1187682954937602048,
+            "id_str": "1187682954937602048",
+            "text": "Will y’all let me know how the new Modern Warfare is? I burned myself out on COD years ago, but MW2 and Black Ops w… https://t.co/3VmH1QzecM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/3VmH1QzecM",
+                        "expanded_url": "https://twitter.com/i/web/status/1187682954937602048",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 243468617,
+                "id_str": "243468617",
+                "name": "Taylor Yohn",
+                "screen_name": "TaylorYohnSCM",
+                "location": "Minneapolis, MN",
+                "description": "Progress, not perfection. I play bass for @SuiteCityManor and pet lots of dogs while consuming too much coffee. Retired Blackout Artist.",
+                "url": "https://t.co/C5G78g8pxp",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C5G78g8pxp",
+                                "expanded_url": "https://youtu.be/vJDYoiTop2Y",
+                                "display_url": "youtu.be/vJDYoiTop2Y",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1569,
+                "friends_count": 138,
+                "listed_count": 6,
+                "created_at": "Thu Jan 27 03:20:59 +0000 2011",
+                "favourites_count": 1191,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17964,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1114330581419155456/EDlXHRnk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114330581419155456/EDlXHRnk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/243468617/1571255010",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 05:09:07 +0000 2019",
+            "id": 1187596930601377794,
+            "id_str": "1187596930601377794",
+            "text": "COME HANG WERE PLAYING MODERN WARFARE OFF THE GAME FUEL https://t.co/PLfEzfnJJR",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1187596924578357248,
+                        "id_str": "1187596924578357248",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHsxHFnW4AAOb27.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHsxHFnW4AAOb27.jpg",
+                        "url": "https://t.co/PLfEzfnJJR",
+                        "display_url": "pic.twitter.com/PLfEzfnJJR",
+                        "expanded_url": "https://twitter.com/clay_png/status/1187596930601377794/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 846,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 603,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 846,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1187596924578357248,
+                        "id_str": "1187596924578357248",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHsxHFnW4AAOb27.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHsxHFnW4AAOb27.jpg",
+                        "url": "https://t.co/PLfEzfnJJR",
+                        "display_url": "pic.twitter.com/PLfEzfnJJR",
+                        "expanded_url": "https://twitter.com/clay_png/status/1187596930601377794/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 846,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 603,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 846,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1187575633938919424,
+            "in_reply_to_status_id_str": "1187575633938919424",
+            "in_reply_to_user_id": 3365351284,
+            "in_reply_to_user_id_str": "3365351284",
+            "in_reply_to_screen_name": "clay_png",
+            "user": {
+                "id": 3365351284,
+                "id_str": "3365351284",
+                "name": "having one hit of CBD and astral projecting",
+                "screen_name": "clay_png",
+                "location": "Minneapolis, MN",
+                "description": "cereal ≠ soup @couribruv, @MeatRocket97 and i recreated brokeback mountain. he/him",
+                "url": "https://t.co/IW6NK2DlIT",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/IW6NK2DlIT",
+                                "expanded_url": "http://twitch.tv/clay_png",
+                                "display_url": "twitch.tv/clay_png",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2304,
+                "friends_count": 956,
+                "listed_count": 18,
+                "created_at": "Wed Jul 08 03:14:36 +0000 2015",
+                "favourites_count": 97606,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 73770,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1187879528493912071/spfpRpTm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187879528493912071/spfpRpTm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3365351284/1570745520",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "84464e4839625b9d",
+                "url": "https://api.twitter.com/1.1/geo/id/84464e4839625b9d.json",
+                "place_type": "city",
+                "name": "Champlin",
+                "full_name": "Champlin, MN",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -93.422453,
+                                45.150614
+                            ],
+                            [
+                                -93.332378,
+                                45.150614
+                            ],
+                            [
+                                -93.332378,
+                                45.209599
+                            ],
+                            [
+                                -93.422453,
+                                45.209599
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 04:21:42 +0000 2019",
+            "id": 1187584997940707329,
+            "id_str": "1187584997940707329",
+            "text": "Well, Modern Warfare has defied expectations already. Not for story or anything, but for having gameplay that runs… https://t.co/tLhZGSgGZH",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/tLhZGSgGZH",
+                        "expanded_url": "https://twitter.com/i/web/status/1187584997940707329",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 726182015058341888,
+                "id_str": "726182015058341888",
+                "name": "Brandon, but spooky",
+                "screen_name": "BrandonWilli13",
+                "location": "Edina, Minnesota, USA",
+                "description": "Brandon J. W. | 19 Years Old | Google+ Refugee | Avid Halo fan | 3D Modeler/Animator | Artist | I'm on other most Social Media as WilliBoi013 | Commissions Open",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 173,
+                "friends_count": 304,
+                "listed_count": 0,
+                "created_at": "Fri Apr 29 22:50:59 +0000 2016",
+                "favourites_count": 3645,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2752,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1188204694918893568/x7jebcz0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188204694918893568/x7jebcz0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/726182015058341888/1572074933",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 03:46:09 +0000 2019",
+            "id": 1187576053092499456,
+            "id_str": "1187576053092499456",
+            "text": "holy burst fire assault rifle on the opening class for modern warfare is actually insane",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 998276729725771776,
+                "id_str": "998276729725771776",
+                "name": "FLYWHITEGUY24",
+                "screen_name": "FLYWHITEGUY24",
+                "location": "Elk River, MN",
+                "description": "love gaming! new to streaming so follow me on twitch. https://t.co/sQ5cTBhFzn. follow my IG @F_W_G24. https://t.co/l7fl91CqJE",
+                "url": "https://t.co/QZ1YS1r0cd",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/QZ1YS1r0cd",
+                                "expanded_url": "https://www.twitch.tv/flywhiteguy24",
+                                "display_url": "twitch.tv/flywhiteguy24",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sQ5cTBhFzn",
+                                "expanded_url": "http://twitch.tv/flywhiteguy24",
+                                "display_url": "twitch.tv/flywhiteguy24",
+                                "indices": [
+                                    54,
+                                    77
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/l7fl91CqJE",
+                                "expanded_url": "http://youtube.com/FLYWHITEGUY24",
+                                "display_url": "youtube.com/FLYWHITEGUY24",
+                                "indices": [
+                                    102,
+                                    125
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 28,
+                "friends_count": 60,
+                "listed_count": 0,
+                "created_at": "Sun May 20 18:58:14 +0000 2018",
+                "favourites_count": 119,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 516,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1068901504856207365/wIt4W0e5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068901504856207365/wIt4W0e5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/998276729725771776/1526952538",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 02:58:01 +0000 2019",
+            "id": 1187563937300205570,
+            "id_str": "1187563937300205570",
+            "text": "RT @CameronMacNabb: Me watching everyone else get into the Modern Warfare servers except for me. https://t.co/ILs3JuhZS7",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CameronMacNabb",
+                        "name": "Cameron “N0REMAC” MacNabb",
+                        "id": 1088966197155106816,
+                        "id_str": "1088966197155106816",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1187563119041744901,
+                        "id_str": "1187563119041744901",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "url": "https://t.co/ILs3JuhZS7",
+                        "display_url": "pic.twitter.com/ILs3JuhZS7",
+                        "expanded_url": "https://twitter.com/CameronMacNabb/status/1187563124150456320/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 396,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1242,
+                                "h": 723,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 699,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1187563124150456320,
+                        "source_status_id_str": "1187563124150456320",
+                        "source_user_id": 1088966197155106816,
+                        "source_user_id_str": "1088966197155106816"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1187563119041744901,
+                        "id_str": "1187563119041744901",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "url": "https://t.co/ILs3JuhZS7",
+                        "display_url": "pic.twitter.com/ILs3JuhZS7",
+                        "expanded_url": "https://twitter.com/CameronMacNabb/status/1187563124150456320/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 396,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1242,
+                                "h": 723,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 699,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1187563124150456320,
+                        "source_status_id_str": "1187563124150456320",
+                        "source_user_id": 1088966197155106816,
+                        "source_user_id_str": "1088966197155106816"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 783454004000989188,
+                "id_str": "783454004000989188",
+                "name": "James Singleton",
+                "screen_name": "singletonjw11",
+                "location": "Oshawa, Ontario",
+                "description": "Loading...",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14,
+                "friends_count": 59,
+                "listed_count": 0,
+                "created_at": "Tue Oct 04 23:49:25 +0000 2016",
+                "favourites_count": 217,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 108,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1164739234680496128/s6AVrbxM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164739234680496128/s6AVrbxM_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/783454004000989188/1475794492",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 25 02:54:47 +0000 2019",
+                "id": 1187563124150456320,
+                "id_str": "1187563124150456320",
+                "text": "Me watching everyone else get into the Modern Warfare servers except for me. https://t.co/ILs3JuhZS7",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1187563119041744901,
+                            "id_str": "1187563119041744901",
+                            "indices": [
+                                77,
+                                100
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                            "url": "https://t.co/ILs3JuhZS7",
+                            "display_url": "pic.twitter.com/ILs3JuhZS7",
+                            "expanded_url": "https://twitter.com/CameronMacNabb/status/1187563124150456320/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 396,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1242,
+                                    "h": 723,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 699,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1187563119041744901,
+                            "id_str": "1187563119041744901",
+                            "indices": [
+                                77,
+                                100
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                            "url": "https://t.co/ILs3JuhZS7",
+                            "display_url": "pic.twitter.com/ILs3JuhZS7",
+                            "expanded_url": "https://twitter.com/CameronMacNabb/status/1187563124150456320/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 396,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1242,
+                                    "h": 723,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 699,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1088966197155106816,
+                    "id_str": "1088966197155106816",
+                    "name": "Cameron “N0REMAC” MacNabb",
+                    "screen_name": "CameronMacNabb",
+                    "location": "Minneapolis, MN",
+                    "description": "Student @NDSU | Esports enthusiast | Streamer on @watchmixer | Founder of @element115gg",
+                    "url": "https://t.co/Oi6pxDdPs1",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Oi6pxDdPs1",
+                                    "expanded_url": "http://mixer.tv/n0remac",
+                                    "display_url": "mixer.tv/n0remac",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 458,
+                    "friends_count": 357,
+                    "listed_count": 0,
+                    "created_at": "Sat Jan 26 01:05:48 +0000 2019",
+                    "favourites_count": 22522,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 317,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1158196218016804864/w9l4DY4N_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158196218016804864/w9l4DY4N_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088966197155106816/1565447594",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 7,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 02:54:47 +0000 2019",
+            "id": 1187563124150456320,
+            "id_str": "1187563124150456320",
+            "text": "Me watching everyone else get into the Modern Warfare servers except for me. https://t.co/ILs3JuhZS7",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1187563119041744901,
+                        "id_str": "1187563119041744901",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "url": "https://t.co/ILs3JuhZS7",
+                        "display_url": "pic.twitter.com/ILs3JuhZS7",
+                        "expanded_url": "https://twitter.com/CameronMacNabb/status/1187563124150456320/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 396,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1242,
+                                "h": 723,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 699,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1187563119041744901,
+                        "id_str": "1187563119041744901",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EHsSXWLWkAUoI0n.jpg",
+                        "url": "https://t.co/ILs3JuhZS7",
+                        "display_url": "pic.twitter.com/ILs3JuhZS7",
+                        "expanded_url": "https://twitter.com/CameronMacNabb/status/1187563124150456320/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 396,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1242,
+                                "h": 723,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 699,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088966197155106816,
+                "id_str": "1088966197155106816",
+                "name": "Cameron “N0REMAC” MacNabb",
+                "screen_name": "CameronMacNabb",
+                "location": "Minneapolis, MN",
+                "description": "Student @NDSU | Esports enthusiast | Streamer on @watchmixer | Founder of @element115gg",
+                "url": "https://t.co/Oi6pxDdPs1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Oi6pxDdPs1",
+                                "expanded_url": "http://mixer.tv/n0remac",
+                                "display_url": "mixer.tv/n0remac",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 458,
+                "friends_count": 357,
+                "listed_count": 0,
+                "created_at": "Sat Jan 26 01:05:48 +0000 2019",
+                "favourites_count": 22522,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 317,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1158196218016804864/w9l4DY4N_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158196218016804864/w9l4DY4N_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088966197155106816/1565447594",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Oct 25 01:05:05 +0000 2019",
+            "id": 1187535517983952897,
+            "id_str": "1187535517983952897",
+            "text": "Modern warfare has been out for 4 minutes and the servers are already broken.\n\nGreat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1042950699103862785,
+                "id_str": "1042950699103862785",
+                "name": "Trev",
+                "screen_name": "JarrettCuIver",
+                "location": "Minneapolis, MN",
+                "description": "@CarryDalvin @BetroTwomin @Obi_Wan_Okogie @vertvsworld | @Vikings @Timberwolves @Twins @mnwild | @LILUZIVERT @KidCudi @kanyewest @youngthug",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1740,
+                "friends_count": 1627,
+                "listed_count": 6,
+                "created_at": "Fri Sep 21 01:36:38 +0000 2018",
+                "favourites_count": 5488,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7525,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1187133902097473536/HWsi97qA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187133902097473536/HWsi97qA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1042950699103862785/1564287965",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 19,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.052,
+        "max_id": 1188147686119264257,
+        "max_id_str": "1188147686119264257",
+        "next_results": "?max_id=1187535517983952896&q=the%20modern%20warfare%20since%3A2019-10-25&geocode=44.980512%2C-93.236586%2C50km&count=100&include_entities=1&result_type=recent",
+        "query": "the+modern+warfare+since%3A2019-10-25",
+        "refresh_url": "?since_id=1188147686119264257&q=the%20modern%20warfare%20since%3A2019-10-25&geocode=44.980512%2C-93.236586%2C50km&result_type=recent&include_entities=1",
+        "count": 100,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
