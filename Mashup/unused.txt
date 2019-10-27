@@ -958,3 +958,36 @@ var cities = [
 
 </script>
     -->
+    function mapExtras() {
+            var i = 0;
+            for (let city = 0; city < workingSet.length; city++) {
+                let tmp = workingSet[city].data;
+                let text = '<div class="content">';
+                for (let element in tmp) {
+                    text += createPopUp(tmp[element].text ? tmp[element].text : tmp[element].retweeted_status.text, `twitter.com/user/status/${tmp[element].id}`, tmp[element].user.url, tmp[element].user.profile_image_url);
+                };
+                let infowindow = new google.maps.InfoWindow({
+                    content: text
+                });
+                let marker = new google.maps.Marker({
+                    position: workingSet[city].center,
+                    map: map,
+                    title: workingSet[city].city
+                });
+                console.log(workingSet[city].data);
+                let cityCircle = new google.maps.Circle({
+                    strokeColor: '#FF0000',
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: '#FF0000',
+                    fillOpacity: 0.35,
+                    map: map,
+                    center: workingSet[city].center,
+                    radius: clamp(Math.pow(workingSet[city].data.length, 2), 1200) * 100//(cityInfo[workingSetPos[city]]['city size in km']) * 100
+                });
+                marker.addListener('click', function () {
+                    infowindow.open(map, marker);
+                });
+                i++;
+            }
+        }
