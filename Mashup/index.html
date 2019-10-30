@@ -13,7 +13,48 @@
         </div>
     </div>
     <div id="topicDiv"><input type="text" placeholder="Enter a somewhat trending topic" id="topicBox"></div>
+    <div class="sideMenuRoot link">
+        <div class="sideMenu ">
+            <div class="sideMenuButton" onclick="changeMenu()">
+                <div class="bar bar1"></div>
+                <div class="bar bar2"></div>
+                <div class="bar bar3"></div>
+            </div>
+            <div style="display: grid;margin-left: 10px;margin-right: 10px;">
+                <label for="txtar">Enter list of cities</label>
+                <textarea type="textarea" id="txtar" oninput="formatText()"></textarea>
+            </div>
+        </div>
+    </div>
     <script type="text/javascript">
+
+        function formatText() {
+            txt = document.getElementById('txtar');
+            let temp = txt.value.replace(/([a-zA-Z]+),$/g, "$1,\n");
+            temp = temp.replace(/([a-zA-Z]*),([a-zA-Z]+)$/g, "$1,\n$2");
+            let hash = temp.hashCode();
+            if (!txt.hashcode) {
+                let hashcode = document.createAttribute('hashcode');
+                hashcode.value = 0;
+                txt.setAttributeNode(hashcode);
+            }
+            if (!(hash == txt.hashcode)) {
+                //debugger;
+                txt.hashcode = hash;
+                txt.value = temp;
+            } else {
+                console.log('value not changed');
+            }
+        }
+
+        function changeMenu() {
+            console.log(document.querySelectorAll('.link'));
+            console.log(document.getElementsByClassName('link'));
+            Array.from(document.getElementsByClassName('link')).forEach(element => {
+                element.classList.toggle('change');
+            })
+        }
+
         document.getElementById('topicBox').addEventListener('keyup', (event) => {
             if (event.code === "Enter" || event.keyCode === 13) {
                 infowindows.forEach((element) => {

@@ -1,4 +1,16 @@
 /// Misc Region ///
+String.prototype.hashCode = function () {
+    var hash = 0;
+    if (this.length == 0) {
+        return hash;
+    }
+    for (let i = 0; i < this.length; i++) {
+        let char = this.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash; // Convert to 32bit integer
+    }
+    return hash;
+}
 
 function clamp(num, clamp) {
     if (num < clamp) {
@@ -43,6 +55,27 @@ function keyToNato(key, dict) {
     return val;
 }
 
+function distance(lat1, lon1, lat2, lon2) {
+    if ((lat1 == lat2) && (lon1 == lon2)) {
+        return 0;
+    }
+    else {
+        var radlat1 = Math.PI * lat1 / 180;
+        var radlat2 = Math.PI * lat2 / 180;
+        var theta = lon1 - lon2;
+        var radtheta = Math.PI * theta / 180;
+        var dist = Math.sin(radlat1) * Math.sin(radlat2) + Math.cos(radlat1) * Math.cos(radlat2) * Math.cos(radtheta);
+        if (dist > 1) {
+            dist = 1;
+        }
+        dist = Math.acos(dist);
+        dist = dist * 180 / Math.PI;
+        dist = dist * 60 * 1.1515;
+        dist = dist * 1.609344;
+        return dist;
+    }
+}
+
 /// Startup Region ///
 const SIZEOFVALUES = 10;
 
@@ -53,28 +86,55 @@ var circles = [];
 
 var workingSetPos = [];
 var workingSet = [];
-var workingSetPromises = [];
 var BasicHeader;
 
 var bearerToken;
 var cityInfo;
 var keyInfo;
-
+var bounds;
 
 function initMap() {
     map = new google.maps.Map(document.getElementById('mapsDiv'), {
         center: { lat: 39.83334, lng: -98.58334 },
         gestureHandling: 'auto',
-        zoomControl: 'false',
-        zoom: 8
+        zoomControl: false,
+        zoom: 2
     });
-    let southWest = new google.maps.LatLng(24.9493, -125.0011);
-    let northEast = new google.maps.LatLng(49.5904, -66.9326);
-    let bounds = new google.maps.LatLngBounds(southWest, northEast);
-    map.fitBounds(bounds);
+
+    bounds = new google.maps.LatLngBounds();
 }
 
 /// Further Work ///
+function reworkList() {
+    list = document.getElementById('txtar').value;
+    list = list.split(',');
+
+    list.forEach(element => {
+        if (element == "\n") {
+            return;
+        }
+        fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${element}&key=${NatoToKey(keyFakeGoogle)}`)
+            .then(response => {
+                response.json()
+                    .then(data => {
+                        //console.log(data);
+
+                        dist = 0;
+                        if (data.results[0].address_components[0].types.includes["locality", "political", "administrative_area_level_1", "postal_town"]) {
+                            dist = 30;
+                        } else {
+                            dist = clamp(distance(data.results[0].geometry.viewport.northeast.lat, data.results[0].geometry.viewport.northeast.lng, data.results[0].geometry.viewport.southwest.lat, data.results[0].geometry.viewport.southwest.lng), 30);
+                        }
+
+                        //console.log(citySize);
+                        fetchFromTwitter(data.results[0].geometry.location.lat, data.results[0].geometry.location.lng, dist, element);
+                        console.log(`city : ${element} has size ${dist}`);
+                    })
+            })
+    });
+
+    //console.log(list);
+}
 
 window.onload = function () {
     fetch('./data/dat.json')
@@ -110,16 +170,56 @@ window.onload = function () {
         })
 }
 
+function fetchFromTwitter(lat, lng, rad, city) {
+    let date = new Date();
+    date.setDate(date.getDate() - 1);
+    //fetch(`https://evening-badlands-84665.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json?q=${document.getElementById('topicBox').value}&geocode=${cityInfo[temp].center.lat},${cityInfo[temp].center.lng},${Math.ceil(Math.sqrt(cityInfo[temp]["city size in km"]))}km&since=${formatDate(date)}&result_type=recent&count=100`,
+    fetch(`https://evening-badlands-84665.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json?q=${document.getElementById('topicBox').value}&geocode=${lat},${lng},${rad}km&since=${formatDate(date)}&result_type=recent&count=100`,
+        {
+            method: 'GET',
+            headers: {
+                'Authorization': `Bearer ${bearerToken}`,
+                'Accept-Encoding': 'gzip',
+                'x-requested-with': 'localhost'
+            }
+        })
+        .then(
+            response => {
+                response.json()
+                    .then(dat => {
+                        let obj = {
+                            "center": {
+                                "lat": lat,
+                                "lng": lng
+                            },
+                            "city": city,
+                            "city size in km": rad,
+                            "data": dat.statuses
+                        };
+                        workingSet.push(obj);
+                        mapExtras_Neue(obj);
+                    }
+                    )
+            }, (error) => { console.log(error); }
+        );
+}
+
 function mapExtras_Neue(city) {
     let tmp = city.data;
     let text = '<div class="content">';
     if (tmp.length > 0) {
         for (let element in tmp) {
+            //console.log(tmp[element]);
             text += createPopUp(tmp[element].text ? tmp[element].text : tmp[element].retweeted_status.text, `twitter.com/text/status/${tmp[element].id_str}`, `twitter.com/i/user/${tmp[element].user.id}`, tmp[element].user.profile_image_url);
         };
-    } else { 
-        text+=`Nothing Here !`
+    } else {
+        text += `Nothing Here !`
     }
+
+    bounds.extend(city.center);
+    map.fitBounds(bounds);
+
+
     let infowindow = new google.maps.InfoWindow({
         content: text
     });
@@ -138,10 +238,10 @@ function mapExtras_Neue(city) {
         fillOpacity: 0.35,
         map: map,
         center: city.center,
-        radius: clamp(Math.log(Math.pow(city.data.length, 2)), 300) * 10000
+        radius: clamp(Math.log(city.data.length), 300) * 10000
     });
 
-    //console.log(`For ${city.data.length} objects, the size is ${clamp(Math.log(Math.pow(city.data.length, 2)), 300) * 10000} when it should be ${Math.log(Math.pow(city.data.length, 2)) * 10000} `)
+    //console.log(cityCircle.radius);
 
     marker.addListener('click', function () {
         infowindow.open(map, marker);
@@ -154,45 +254,29 @@ function mapExtras_Neue(city) {
 }
 
 function fetchEverything() {
-    while (workingSetPos.length < SIZEOFVALUES) {
-        let temp = Math.floor(Math.random() * cityInfo.length);
-        if (!workingSetPos.includes(temp)) {
-            workingSetPos.push(temp);
-        } else {
-            continue;
+    workingSet.length = 0;
+    workingSetPos.length = 0;
+    //console.log(document.getElementById('txtar').value);
+    if (document.getElementById('txtar').value) {
+        reworkList();
+    }
+    else {
+        while (workingSetPos.length < SIZEOFVALUES) {
+            let temp = Math.floor(Math.random() * cityInfo.length);
+            if (!workingSetPos.includes(temp)) {
+                workingSetPos.push(temp);
+            } else {
+                continue;
+            }
         }
     }
     for (let temp = 0; temp < workingSetPos.length; temp++) {
-        let date = new Date();
-        date.setDate(date.getDate() - 1);
-        fetch(`https://evening-badlands-84665.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json?q=${document.getElementById('topicBox').value}&geocode=${cityInfo[temp].center.lat},${cityInfo[temp].center.lng},${Math.ceil(Math.sqrt(cityInfo[temp]["city size in km"]))}km&since=${formatDate(date)}&result_type=recent&count=100`,
-            {
-                method: 'GET',
-                headers: {
-                    'Authorization': `Bearer ${bearerToken}`,
-                    'Accept-Encoding': 'gzip',
-                    'x-requested-with': 'localhost'
-                }
-            })
-            .then(
-                response => {
-                    response.json()
-                        .then(dat => {
-                            let obj = {
-                                "center": {
-                                    "lat": cityInfo[workingSetPos[temp]].center.lat,
-                                    "lng": cityInfo[workingSetPos[temp]].center.lng
-                                },
-                                "city": cityInfo[workingSetPos[temp]].city,
-                                "city size in km": cityInfo[workingSetPos[temp]]["city size in km"],
-                                "data": dat.statuses
-                            };
-                            workingSet.push(obj);
-                            mapExtras_Neue(obj);
-                        }
-                        )
-                }, (error) => { console.log(error); }
-            );
+        fetchFromTwitter(
+            cityInfo[temp].center.lat,
+            cityInfo[temp].center.lng,
+            cityInfo[temp]["city size in km"],
+            cityInfo[temp].city
+        );
     }
 };
 
@@ -216,7 +300,6 @@ function createPopUp(text, url, user, image) {
         `</div>`;
     return subcontent;
 }
-
 
 /// A lot of extra information ///
 const keyFakeGoogle = [
