@@ -42,6 +42,24 @@ textarea {
 
 .change textarea {
     display: block;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.sideMenuActual {
+    display: grid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sideMenuActual {
+    display: grid !important;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sideMenuActualDisable {
+    display: none;
 }
 
 .change .sideMenu {

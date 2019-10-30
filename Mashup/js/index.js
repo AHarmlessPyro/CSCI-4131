@@ -210,7 +210,7 @@ function mapExtras_Neue(city) {
     if (tmp.length > 0) {
         for (let element in tmp) {
             //console.log(tmp[element]);
-            text += createPopUp(tmp[element].text ? tmp[element].text : tmp[element].retweeted_status.text, `twitter.com/text/status/${tmp[element].id_str}`, `twitter.com/i/user/${tmp[element].user.id}`, tmp[element].user.profile_image_url);
+            text += createPopUp(tmp[element].text ? tmp[element].text : tmp[element].retweeted_status.text, `twitter.com/text/status/${tmp[element].id_str}`, `twitter.com/${tmp[element].user.screen_name}`, tmp[element].user.profile_image_url);
         };
     } else {
         text += `Nothing Here !`
