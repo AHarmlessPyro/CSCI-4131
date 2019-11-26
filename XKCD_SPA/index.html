@@ -9,13 +9,29 @@
 
     <div id="initExplainDiv">
     </div>
-    <div id="initExplainBox">
+    <div id="initExplainBox" style="margin: 37.5vh 37.5vh 37.5vw 14.75vw;
+    height: 25vh;
+    width: 25vw;
+    background-color: black;
+    position: fixed;
+    /* margin-right: 37.5vw; */
+    z-index: 12;
+    opacity: 5;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid black;
+    display: grid;
+    align-items: center;">
         Press enter on any box to create password
         <br>
         <br>
-        Prefering Double lettered words makes usage of double lettered words 3 times as likely as non-double lettered words.
+        Prefering Double lettered words makes usage of double lettered words 3 times as likely as non-double lettered
+        words.
         <br>
-        <button onclick="document.getElementById('initExplainBox').style.display = 'none';document.getElementById('initExplainDiv').style.display = 'none';"> CLICK ME TO DISMISS</button>
+        <button
+            onclick="document.getElementById('initExplainBox').style.display = 'none';document.getElementById('initExplainDiv').style.display = 'none';">
+            CLICK ME TO DISMISS</button>
     </div>
     </div>
     <div id="containerDiv">
@@ -94,7 +110,7 @@
                             <div class="subArrow">
                                 &rarr;</div>
                             <input class="substitutionInputField inputFields outputSub" onkeyup="fillDiv()">
-                       </div>
+                        </div>
                     </div>
                 </div>
             </div>
