@@ -1,0 +1,3 @@
+[submodule "flask app/FlaskApp"]
+	path = flask app/FlaskApp
+	url = https://github.com/AHarmlessPyro/FlaskApp
