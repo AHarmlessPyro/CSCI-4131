@@ -147,7 +147,7 @@ window.onload = function () {
                             response.json()
                                 .then(data => { keyInfo = data; })
                                 .then(() => {
-                                    let text = `Basic ${btoa(`${NatoToKey(consumerKey)}:${NatoToKey(consumerSecret)}`)}`
+                                    let text = `Bearer AAAAAAAAAAAAAAAAAAAAANV1AQEAAAAAtNAA%2BgRFfjkl4vEOOeg8Hvz5kY0%3DTX9fHSNBBky7Z1Om6YlkJYEE72P1MH5EpIDwNH0qwKMhspTdS4`
                                     fetch("https://evening-badlands-84665.herokuapp.com/https://api.twitter.com/oauth2/token", {
                                         method: 'POST',
                                         headers: {
