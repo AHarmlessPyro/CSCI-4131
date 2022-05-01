@@ -147,24 +147,9 @@ window.onload = function () {
                             response.json()
                                 .then(data => { keyInfo = data; })
                                 .then(() => {
-                                    let text = `Bearer AAAAAAAAAAAAAAAAAAAAANV1AQEAAAAAtNAA%2BgRFfjkl4vEOOeg8Hvz5kY0%3DTX9fHSNBBky7Z1Om6YlkJYEE72P1MH5EpIDwNH0qwKMhspTdS4`
-                                    fetch("https://evening-badlands-84665.herokuapp.com/https://api.twitter.com/oauth2/token", {
-                                        method: 'POST',
-                                        headers: {
-                                            'Authorization': text,
-                                            'Content-Type': `application/x-www-form-urlencoded;charset=UTF-8`,
-                                            'Accept-Encoding': 'gzip'
-                                        },
-                                        body: 'grant_type=client_credentials'
-                                    }, error => { console.log(error); })
-                                        .then(response => {
-                                            response.json()
-                                                .then(dat => {
-                                                    bearerToken = dat.access_token;
-                                                    createMap();
-                                                });
-                                        }, error => { console.log(error); })
-                                }, error => { console.log(error); });
+                                    let text = 'AAAAAAAAAAAAAAAAAAAAANV1AQEAAAAAtNAA%2BgRFfjkl4vEOOeg8Hvz5kY0%3DTX9fHSNBBky7Z1Om6YlkJYEE72P1MH5EpIDwNH0qwKMhspTdS4'
+                                    bearerToken = text
+                                });
                         })
                 });
         })
